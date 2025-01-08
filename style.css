@@ -1,0 +1,14 @@
+
+body{
+    background-color: #ededed;
+}
+.header{
+    background-color: black;
+    color: #fff;
+}
+#todoForm,.todoUl{
+    padding: 10px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    box-shadow: 2px 2px 20px 1px black;
+}
